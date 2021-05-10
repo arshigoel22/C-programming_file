@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a=23;
+    float b=2.4;
+    double c=8.9;
+    bool d=true;
+    char e='D';
+    
+    cout<<"int:"<<a<<"\n";
+    cout<<"float:"<<b<<"\n";
+    cout<<"double:"<<c<<"\n";
+    cout<<"bool:"<<d<<"\n";
+    cout<<"char:"<<e<<"\n";
+
+    return 0;
+}
