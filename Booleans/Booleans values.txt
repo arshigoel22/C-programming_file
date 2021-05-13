@@ -1,0 +1,14 @@
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+int main()
+{
+    bool mynameisarshi=true;
+    bool mynameisnotarshi=false;
+    cout<<mynameisarshi<<"\n";
+    cout<<mynameisnotarshi;
+
+    return 0;
+}
