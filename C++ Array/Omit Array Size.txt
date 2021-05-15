@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    string cars[5]={"BMW","VOLVO","FORD"};
+     cars[3]="MASDA";
+     cars[4]="TOYTA";
+    for(int i=0;i<5;i++){
+    cout<<i<<":"<<cars[i]<<"\n";
+    }
+
+    return 0;
+}
